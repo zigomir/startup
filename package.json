@@ -1,0 +1,24 @@
+{
+  "name": "app-name",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zigomir/app-name"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli": "^0.12.3",
+    "broccoli-coffee": "^0.1.0",
+    "broccoli-env": "0.0.1",
+    "broccoli-less": "^0.2.0",
+    "broccoli-merge-trees": "^0.1.4",
+    "broccoli-static-compiler": "^0.1.4",
+    "broccoli-uglify-js": "^0.1.3"
+  }
+}

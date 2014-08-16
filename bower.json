@@ -1,0 +1,18 @@
+{
+  "name": "app-name",
+  "version": "0.0.0",
+  "authors": [
+    "zigomir <zigomir@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
