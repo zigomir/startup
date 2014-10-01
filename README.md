@@ -28,17 +28,16 @@ bower install # or bower install -S react
 ## Running
 
 ```sh
-broccoli serve
-open http://localhost:4200
+npm start # or broccoli serve
 ```
 
-## Build and deploy - edit deploy script first
+## Build
 
 
 ```sh
-./deploy
+npm run build
 ```
 
 ## TODO
 
-- https://github.com/mmun/broccoli-es6-module-transpiler
+- deploy to divshot.com
